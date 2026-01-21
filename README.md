@@ -15,13 +15,12 @@ I’m a Front End Web developer passionate about making error-free websites with
 ✅ CSS3 <br>
 ✅ Photoshop / Illustrator <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
 
 ## ☕ Connect with me!
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
+[<img src='https://raw.githubusercontent.com/ranacaptcha/ranacaptcha/refs/heads/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/ranacaptcha)  [<img src='https://raw.githubusercontent.com/ranacaptcha/ranacaptcha/refs/heads/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com//)  [<img src='https://raw.githubusercontent.com/ranacaptcha/ranacaptcha/refs/heads/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/)  [<img src='https://raw.githubusercontent.com/ranacaptcha/ranacaptcha/refs/heads/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@)  [<img src='https://raw.githubusercontent.com/ranacaptcha/ranacaptcha/refs/heads/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/)  
 
 
 
 ## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+✅  ► ranacaptcha@gmail.com
